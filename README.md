@@ -1,7 +1,7 @@
 # WeatherApp
 This is a weather app. It uses openWeather Api to fetch current and predicted weather data of serached cities.
  
+![weather2](https://github.com/khusi-4252/WeatherApp/assets/105723407/5ef072e9-1f41-4f34-a48a-4f81db5c4bd6)![weather](https://github.com/khusi-4252/WeatherApp/assets/105723407/f3535c1b-939c-4e23-b7a6-d7261d09df12)
 
 
 
-<img src="https://user-images.githubusercontent.com/39986507/83872725-2ba9ec00-a750-11ea-8a47-5a32f56eedec.png" width="320">   <img src="https://user-images.githubusercontent.com/39986507/83606871-e5119180-a597-11ea-856d-734343583f30.png" width="320">
